@@ -1,0 +1,56 @@
+body {
+    padding: 0px;
+    border: 0px;
+}
+
+#bacground_color {
+    background-color: blue;
+    padding-left: 1em;
+    width: 42%;
+    height: 420px;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+
+#background_img {
+    display: flex;
+    padding-top: 3em;
+    padding-left: 4em;
+    padding-right: 3em;
+}
+
+#tag-2 {
+    padding-left: 4em;
+    margin-top: 210px;
+    width: 420px;
+    height: 310px;
+}
+
+#about-tag {
+    padding-left: 120px;
+    padding-right: 2em;
+    padding-top: 210px;
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    color: white;
+    background-color: black;
+    width: 210px;
+    height: 42px;
+}
+
+button:hover {
+    color: black;
+    background-color: white;
+}
+
+fieldset {
+    border: 2px solid black;
+    width: auto;
+}
