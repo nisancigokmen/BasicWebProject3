@@ -14,7 +14,7 @@
   
   
   
-  ..
+  ...
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer
