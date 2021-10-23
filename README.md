@@ -11,10 +11,10 @@
 <img src = "https://media1.giphy.com/media/1ZDDyAaAA82ywDiyKs/giphy.gif">
   
   
-  .
   
   
   
+  ..
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer
