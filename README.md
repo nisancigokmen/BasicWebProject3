@@ -11,7 +11,6 @@
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
  
  </div>
-
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
