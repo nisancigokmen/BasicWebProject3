@@ -2,7 +2,6 @@
 
 ![interface](https://user-images.githubusercontent.com/91744618/137241800-8df001aa-4fea-49a3-ac2a-a08e88bda9a8.png)
   
-  
 <div id="contact">
  
 <h2> Connect with me: </h2>
